@@ -2,7 +2,7 @@
 Two eyes that track your cursor position as long as it is in the current window. Warning: may distract you for a while.
 
 ## How to Run
-Open the index.html file from the project.
+Open the index.html file in any browser.
 
 ## Roadmap of future improvements
 - add a small delay to eyes
